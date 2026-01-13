@@ -1,0 +1,17 @@
+{
+  "main": "index.js",
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "ClI for getting weather",
+  "author": "Odenec",
+  "license": "ISC",
+  "type": "commonjs",
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
